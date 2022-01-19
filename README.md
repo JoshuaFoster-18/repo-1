@@ -2,3 +2,5 @@
 groupProject workshop repo
 
 Extra read me text
+
+Submitting a pull request
